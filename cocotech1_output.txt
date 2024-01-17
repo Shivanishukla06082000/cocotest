@@ -1,0 +1,32 @@
+
+Monthly Statistics:
+Month 1: Units Sold - 16350, Amount - 400728.2071993869
+Month 2: Units Sold - 17007, Amount - 447255.73373070796
+Month 3: Units Sold - 16283, Amount - 405078.4194401207
+Month 4: Units Sold - 14736, Amount - 372879.02129058994
+Month 5: Units Sold - 16400, Amount - 402736.6338800748
+Month 6: Units Sold - 18375, Amount - 446968.2098698629
+Month 7: Units Sold - 15583, Amount - 395124.0352123214
+Month 8: Units Sold - 17772, Amount - 454831.0696310065
+Month 9: Units Sold - 15668, Amount - 389346.799569731
+Month 10: Units Sold - 15831, Amount - 406687.1788705739
+Month 11: Units Sold - 15531, Amount - 383749.62909239583
+Month 12: Units Sold - 18731, Amount - 466040.16942461
+Month 13: Units Sold - 3107, Amount - 81507.3575981784
+
+Month with Maximum Sales (Amount): month 12 - Amount: 466040.16942461
+Month with Maximum Sales (Units): month 12 - Units Sold: 18731
+
+Quarterly Statistics:
+Quarter 1: Units Sold - 49640, Amount - 1253062.3603702155
+Quarter 2: Units Sold - 49511, Amount - 1222583.8650405265
+Quarter 3: Units Sold - 49023, Amount - 1239301.9044130591
+Quarter 4: Units Sold - 50093, Amount - 1256476.9773875796
+Quarter 5: Units Sold - 3107, Amount - 81507.3575981784
+
+Quarter with Maximum Sales (Amount): quarter 4 - Amount: 1256476.9773875796
+Quarter with Maximum Sales (Units): quarter 4 - Units Sold: 50093
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
